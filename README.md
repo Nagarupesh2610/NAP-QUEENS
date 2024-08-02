@@ -1,9 +1,3 @@
-VELLORE INSTITUTE OF TECHNOLOGY
-NAP QUEENS ASSIGNMENT
-NAME: Dindukurthi Naga Rupesh
-REG NO: 20MIS0051
-MOBILE NUMBER: 6303468428
-GMAIL ID: nagarupesh2003@gmail.com
 QA ASSIGNMENT
 1. Preparation
  Log in to your account and navigate to the Business Intelligence section.
